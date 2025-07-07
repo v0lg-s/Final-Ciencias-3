@@ -1,5 +1,3 @@
-# tester_full.py
-
 from lexer import lexer
 from parser import parser
 from semantic import semantic_analyze
